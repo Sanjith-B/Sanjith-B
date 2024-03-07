@@ -10,6 +10,7 @@ I'm Sanjith Bharanidharan, an undergraduate student specializing in Electronics 
 - Data Analytics
 - Machine Learning
 - Database Management
+- Cloud Computing
 
 ## Collaboration Opportunities
 
